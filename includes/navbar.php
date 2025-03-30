@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-white shadow-sm">
+<nav class="navbar navbar-expand-lg bg-white shadow-md">
   <div class="container-fluid">
     <a class="navbar-brand text-dark" href="/index.php">
       <img src="/images/logo.png" alt="My Store Logo" style="height: 40px;">
